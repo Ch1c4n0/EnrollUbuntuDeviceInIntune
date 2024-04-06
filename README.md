@@ -53,7 +53,7 @@ Install the Microsoft Intune app:
 
     sudo apt update
     sudo apt install intune-portal
-    Reboot your device.
+Reboot your device.
 
 
 
